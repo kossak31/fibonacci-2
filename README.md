@@ -4,4 +4,4 @@
 php server.php
 
 ## run client side with argument number of fibonacci
-php client.php <number>
+php client.php 8
